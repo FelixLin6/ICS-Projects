@@ -16,7 +16,7 @@ Shell Lab
 - Concurrency
 - Work in tsh.c
 
-  Cache Lab
-  - Simulates cache using info from a line of commandline input (block size, lines, etc)
-  - Temporal and spatial locality for memory accesses
-  - Main work in csim.c, trans.c (demo of application)
+Cache Lab
+- Simulates cache using info from a line of commandline input (block size, lines, etc)
+- Temporal and spatial locality for memory accesses
+- Main work in csim.c, trans.c (demo of application)
