@@ -1,4 +1,6 @@
-****Overview****
+**Overview**
+
+A showcase of favorite projects mentioned in my resume.
 
 Malloc Lab
 - A memory allocator
